@@ -1,0 +1,29 @@
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+  border-radius: 10px;
+  flex-direction: column;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+form {
+  width: 100%;
+  max-width: 400px;
+  background-color: #fff;
+  padding: 40px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2);
+}
+.a {
+  margin-top: 20px;
+}
+.input-container {
+  background-color:#f1f1f175;
+
+}
